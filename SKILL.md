@@ -1,10 +1,9 @@
 ---
 name: loving-attention-practice
-description: Transform perception of a person or situation through patient, loving
-  attention rather than judgment, strategy, or willpower.
+description: Transform perception of a person or situation through patient, loving attention rather than judgment, strategy, or willpower.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - loving-attention-practice
